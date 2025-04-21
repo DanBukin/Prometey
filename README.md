@@ -89,7 +89,8 @@
 ---
 
 ## 📁 Структура проекта
-Prometey/ ├── Prometey2.0/ │ ├── main.py # GUI и запуск приложения │ ├── prometey_functions.py # Тепловые и температурные расчёты │ ├── prometey_graph.py # Построение графиков (matplotlib) │ ├── prometey_graph_programm.py # Визуализация внутри окон │ ├── prometey_tabl.py # Генерация расчётных таблиц │ ├── prometey_cantera.py # Интеграция с Cantera │ └── prometey_customtkinter.py # Визуальные компоненты UI ├── requirements.txt # Зависимости проекта ├── .gitignore # Исключения для Git └── README.md # Документация проекта
+<pre lang="markdown"> ## 📁 Структура проекта ``` Prometey/ ├── Prometey2.0/ │ ├── main.py # GUI и запуск приложения │ ├── prometey_functions.py # Тепловые и температурные расчёты │ ├── prometey_graph.py # Построение графиков (matplotlib) │ ├── prometey_graph_programm.py # Визуализация внутри окон │ ├── prometey_tabl.py # Генерация расчётных таблиц │ ├── prometey_cantera.py # Интеграция с Cantera │ └── prometey_customtkinter.py # Визуальные компоненты UI ├── requirements.txt # Зависимости проекта ├── .gitignore # Исключения для Git └── README.md # Документация проекта ``` </pre>
+Документация проекта
 
 ---
 
